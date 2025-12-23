@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Hey%20all!&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2B2B2B&height=200&section=header&text=Hey%20all!👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+
+
 
    ## I’m Mowshiya, a Frontend Developer
 
@@ -7,12 +9,8 @@
 <td width="70%">
   
 - 🌐 Here’s my **portfolio**
-- 🌱 I’m currently learning **DSA**
-- 🤝 Looking to collaborate on **Web / AI projects**
-- 🎯 Actively preparing for **placements & entry-level roles**
 - 💬 Ask me about **Web Design, Frontend & Tech basics**
 - 📫 How to reach me: **mowshiyapandiyan1176@gmail.com**
-- 😄 Pronouns: **She / Her**
 - ⚡ Fun fact: I enjoy turning ideas into interactive designs with code
 </td>
 <td align="right" width="30%">
